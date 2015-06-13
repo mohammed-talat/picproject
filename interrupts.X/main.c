@@ -43,7 +43,7 @@ Timer1_init();
 //unsigned char a=0;
 //a++;
 
-// hey i am using SV C   fhsks
+// what on the earth am i doing
     //setup io pins
  TRISBbits.TRISB7=0;
  PORTBbits.RB7=1;
